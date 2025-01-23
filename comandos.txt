@@ -1,0 +1,6 @@
++hello = El bot da un saludo
++tipos = El bot da tipos de residuos
++organicos = El bot explica los residuos organicos y adjunta una imagen relacionada
++inorganicos = El bot explica los residuos inorganicos y adjunta una imagen relacionada
++random_stat = El bot da una estadistica aleatoria sobre residuos
++ayuda = El bot da el contenido de este documento
